@@ -1,5 +1,5 @@
 {
-  "name": "git-twitch",
+  "name": "git-over-twitch",
   "version": "0.1.0",
   "description": "this is a webhook for github and twitch interaction",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bdougie/git-twitch.git"
+    "url": "git+https://github.com/JmckT/git-twitch.git"
   },
-  "author": "bdougie",
+  "author": "JesseMack",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bdougie/git-twitch/issues"
+    "url": "https://github.com/issues"
   },
-  "homepage": "https://github.com/bdougie/git-twitch#readme",
+  "homepage": "https://github.com/JmckT/git-twitch/blob/main/README.md",
   "dependencies": {
     "@octokit/webhooks": "^7.11.2",
     "dotenv": "^8.2.0",
